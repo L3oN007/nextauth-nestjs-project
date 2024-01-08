@@ -1,0 +1,13 @@
+{
+    "data": {
+        "user": {
+            "name": null,
+            "email": "minhnhat@dev.com",
+            "id": "clr26de8w0000us49yh31i51s",
+            "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjbHIyNmRlOHcwMDAwdXM0OXloMzFpNTFzIiwiZW1haWwiOiJtaW5obmhhdEBkZXYuY29tIiwibmFtZSI6bnVsbCwicm9sZSI6IlVTRVIiLCJpYXQiOjE3MDQ2NDAzMDgsImV4cCI6MTcwNDY0MTIwOH0.iVc6n5MdwUyvRIlJ7hd_zOxNBwWbkcpX0WX621NK8T4",
+            "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJjbHIyNmRlOHcwMDAwdXM0OXloMzFpNTFzIiwiZW1haWwiOiJtaW5obmhhdEBkZXYuY29tIiwibmFtZSI6bnVsbCwicm9sZSI6IlVTRVIiLCJpYXQiOjE3MDQ2NDAzMDgsImV4cCI6MTcwNTI0NTEwOH0.rwexgrBOaIRML3UwMjolwqIrhgCNxKIHMgz15b5Tjao"
+        },
+        "expires": "2024-02-06T15:26:00.102Z"
+    },
+    "status": "authenticated"
+}

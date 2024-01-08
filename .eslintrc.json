@@ -7,12 +7,12 @@
     "extends": [
         // "standard-with-typescript",
         "plugin:react/recommended",
-        "airbnb",
-        "airbnb-typescript",
-        "plugin:import/typescript",
+        // "airbnb",
+        // "airbnb-typescript",
+        // "plugin:import/typescript",
         "next/core-web-vitals",
-        "prettier",
-        "plugin:prettier/recommended"
+        "prettier"
+        // "plugin:prettier/recommended"
     ],
     "parserOptions": {
         "ecmaVersion": "latest",
